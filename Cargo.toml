@@ -1,6 +1,10 @@
 [package]
-name = "Niora"
+name = "SchedulerApp"
 version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+notify-rust = "4"
+cron = "0.11"
+chrono = "0.4"
+tokio = { version = "1", features = ["full"] }
