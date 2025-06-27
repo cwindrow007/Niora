@@ -1,7 +1,7 @@
 #  Niora
 
 **Niora** is a lightweight, Rust-powered desktop application that helps you stay on track with your medications. Whether you take daily pills or weekly doses, Niora runs quietly in the background and reminds you — beautifully and reliably — so you can focus on being your day, no matter what occurs.
-
+![Niora Banner](logo-banner.png)
 ---
 
 ##  Features
