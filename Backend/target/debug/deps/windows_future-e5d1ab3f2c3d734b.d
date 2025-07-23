@@ -1,0 +1,10 @@
+P:\SchedulerApp\target\debug\deps\windows_future-e5d1ab3f2c3d734b.d: C:\Users\18609\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-future-0.2.1\src\lib.rs C:\Users\18609\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-future-0.2.1\src\bindings.rs C:\Users\18609\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-future-0.2.1\src\bindings_impl.rs C:\Users\18609\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-future-0.2.1\src\get.rs C:\Users\18609\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-future-0.2.1\src\waiter.rs C:\Users\18609\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-future-0.2.1\src\../readme.md
+
+P:\SchedulerApp\target\debug\deps\libwindows_future-e5d1ab3f2c3d734b.rmeta: C:\Users\18609\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-future-0.2.1\src\lib.rs C:\Users\18609\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-future-0.2.1\src\bindings.rs C:\Users\18609\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-future-0.2.1\src\bindings_impl.rs C:\Users\18609\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-future-0.2.1\src\get.rs C:\Users\18609\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-future-0.2.1\src\waiter.rs C:\Users\18609\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-future-0.2.1\src\../readme.md
+
+C:\Users\18609\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-future-0.2.1\src\lib.rs:
+C:\Users\18609\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-future-0.2.1\src\bindings.rs:
+C:\Users\18609\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-future-0.2.1\src\bindings_impl.rs:
+C:\Users\18609\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-future-0.2.1\src\get.rs:
+C:\Users\18609\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-future-0.2.1\src\waiter.rs:
+C:\Users\18609\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-future-0.2.1\src\../readme.md:
