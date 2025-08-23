@@ -1,11 +1,15 @@
-function App() {
-    return (
-        <div className="bg-gray-800 text-white min-h-screen flex items-center justify-center">
-            <h2 className="text-blue-400 text-3xl font-bold">TAILWIND TEST
-        </h2>
-</div>
-)
-    ;
-}
+import React from 'react';
+import AppRoutes from './navigation/AppRoutes'
+
+const App: React.FC = () => {
+    return(
+        <>
+            <main>
+                <AppRoutes/>.
+            </main>
+
+        </>
+    );
+};
 
 export default App;
