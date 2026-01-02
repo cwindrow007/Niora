@@ -46,7 +46,7 @@ cargo run --release
 -  Custom notification sounds
 -  Clickable notifications or snooze button
 -  information in regards to medical symptoms
--  Cross-platform support (macOS/Linux)
+-  Cross-platform support
 -  Editable GUI for setting reminders
  - Encrypted logs and dose tracking
  - Mobile Support
